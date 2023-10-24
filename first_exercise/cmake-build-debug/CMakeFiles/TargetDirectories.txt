@@ -1,0 +1,3 @@
+/home/gabrielborel/www/c/data-structures/first_exercise/cmake-build-debug/CMakeFiles/first_exercise.dir
+/home/gabrielborel/www/c/data-structures/first_exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gabrielborel/www/c/data-structures/first_exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir

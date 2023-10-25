@@ -1,0 +1,27 @@
+# ninja log v5
+0	18	1698195513133694664	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+19	36	1698195513149694752	palindrome_with_stack	5429e0bcaebe5a2
+0	23	1698195598814166492	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+24	41	1698195598830166581	palindrome_with_stack	5429e0bcaebe5a2
+0	23	1698195612938244112	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+23	43	1698195612958244221	palindrome_with_stack	5429e0bcaebe5a2
+0	24	1698195663114519854	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+24	42	1698195663130519942	palindrome_with_stack	5429e0bcaebe5a2
+0	23	1698195746030975496	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+23	40	1698195746046975584	palindrome_with_stack	5429e0bcaebe5a2
+0	24	1698195882143723465	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+24	43	1698195882163723577	palindrome_with_stack	5429e0bcaebe5a2
+0	24	1698195894679792362	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+24	42	1698195894695792450	palindrome_with_stack	5429e0bcaebe5a2
+0	23	1698196125385038391	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+23	41	1698196125401038470	palindrome_with_stack	5429e0bcaebe5a2
+1	23	1698196164449237695	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+23	40	1698196164469237797	palindrome_with_stack	5429e0bcaebe5a2
+0	24	1698196220565524011	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+24	40	1698196220581524090	palindrome_with_stack	5429e0bcaebe5a2
+0	23	1698196247505661485	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+23	41	1698196247521661566	palindrome_with_stack	5429e0bcaebe5a2
+0	24	1698196336042113195	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+24	45	1698196336062113297	palindrome_with_stack	5429e0bcaebe5a2
+0	25	1698198060515340684	CMakeFiles/palindrome_with_stack.dir/main.c.o	70612a547edacfb5
+25	41	1698198060531340770	palindrome_with_stack	5429e0bcaebe5a2
